@@ -1,0 +1,1 @@
+  href="https://www.linkedin.com/in/maur%C3%ADcio-maia-carvalho-3a4a74231/" target="_blank"> <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
