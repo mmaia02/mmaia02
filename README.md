@@ -3,7 +3,7 @@
  <h2 align="center">Sobre mim <h2/>
 
 <p align="justify">
-    Meu nome é Maurício Maia Carvalho tenho 20 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília(UCB). Estou em busca do meu primeiro emprego na área de desenvolvedor, pois sempre fui apaixonado por tecnologia e estudo sobre a área há algum tempo. 
+    Meu nome é Maurício Maia Carvalho tenho 21 anos, formado em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília(UCB). Estou em busca do meu primeiro emprego na área de desenvolvedor, pois sempre fui apaixonado por tecnologia e estudo sobre a área há algum tempo e tenho experiência com análise de dados. 
 <p/>
 
 <h2 align="center">Linkedin <h2/>
